@@ -1,13 +1,13 @@
 {
   "profil": {
     "nama": "Irvan Yudistiansyah",
-    "deskripsi": "Lulusan S1 Teknik Informatika dengan dasar pendidikan SMKN 1 Cibadak jurusan multimedia. Memiliki pengalaman sebagai IT support, dan web developer, khususnya dalam pengelolaan komputer, instalasi jaringan, serta pengembangan aplikasi website. Terlibat dalam proyek nyata, seperti pengembangan website agenda rapat, dan website untuk pembuatan invoice. Memiliki sertifikasi di bidang database foundation, mikrotik certified network associate (MTCNA), dan IT Specialist Software Development. Memilki motivasi tinggi untuk belajar dan berkarir di bidang teknologi informasi, jujur, bertanggung jawab, dan mampu bekerja secara individu maupun tim."
+    "deskripsi": "Lulusan S1 Teknik Informatika dengan dasar pendidikan SMKN 1 Cibadak jurusan multimedia. Memiliki pengalaman sebagai IT support, dan web developer, khususnya dalam pengelolaan komputer, instalasi jaringan, serta pengembangan aplikasi website. Terlibat dalam proyek nyata, seperti pengembangan website agenda rapat, dan website untuk pembuatan invoice. Memiliki sertifikasi di bidang database foundation, mikrotik certified network associate (MTCNA), dan IT Specialist Software Development. Memiliki motivasi tinggi untuk belajar dan berkarir di bidang teknologi informasi, jujur, bertanggung jawab, dan mampu bekerja secara individu maupun tim."
   },
   "pendidikan": [
     {
       "sekolah": "Universitas Muhammadiyah Sukabumi",
       "jurusan": "Teknik Informatika",
-      "tahun": "2021 - 2025"
+      "tahun": "2021 - 2025",
       "IPK": "3.73 /4.00"
     },
     {
@@ -16,37 +16,41 @@
       "tahun": "2019 - 2021"
     }
   ],
-  
   "pengalaman": [
     {
       "posisi": "Staf Tata Usaha (TU)",
-      "instansi": "Badan Pusat Statistik (BPS) Kabupaten Sukabumi ",
+      "instansi": "Badan Pusat Statistik (BPS) Kabupaten Sukabumi",
       "tahun": "2024-2025",
-      "deskripsi": "Membantu administrasi dan dokumentasi internal kantor."
-      "deskripsi": "Pengembangan website agenda rapat internal."
-      "deskripsi": "Instalasi dan konfigurasi komputer serta jaringan lokal."
-      "deskripsi": "Pemeliharaan sistem website dan troubleshooting perangkat."
+      "deskripsi": [
+        "Membantu administrasi dan dokumentasi internal kantor.",
+        "Pengembangan website agenda rapat internal.",
+        "Instalasi dan konfigurasi komputer serta jaringan lokal.",
+        "Pemeliharaan sistem website dan troubleshooting perangkat."
+      ]
     },
-     {
+    {
       "posisi": "Desain Grafis & IT Support",
       "instansi": "PrimeraPrint Digital Printing",
       "tahun": "2021-2023",
-      "deskripsi": "Membuat desain grafis untuk kebutuhan percetakan dan promosi."
-      "deskripsi": "Mengoperasikan mesin cetak dan memastikan hasil produksi sesuai dengan standar cetak."
-      "deskripsi": "Membuat dan mengembangkan website invoice untuk kebutuhan internal."
-      "deskripsi": "Memberikan dukungan teknis komputer dan jaringan."
+      "deskripsi": [
+        "Membuat desain grafis untuk kebutuhan percetakan dan promosi.",
+        "Mengoperasikan mesin cetak dan memastikan hasil produksi sesuai dengan standar cetak.",
+        "Membuat dan mengembangkan website invoice untuk kebutuhan internal.",
+        "Memberikan dukungan teknis komputer dan jaringan."
+      ]
     },
     {
       "posisi": "Desain Grafis & Operator Produksi",
-      "instansi": "CV. Cerutu Production ",
+      "instansi": "CV. Cerutu Production",
       "tahun": "2020",
-      "deskripsi": "Membuat desain grafis untuk kebutuhan percetakan dan promosi."
-      "deskripsi": "Mengoperasikan mesin cetak dan memastikan hasil produksi sesuai dengan standar cetak."
-      "deskripsi": "Mendukung proses produksi mulai dari desain hingga hasil akhir cetakan."
-      "deskripsi": "Dukungan teknis komputer dan jaringan."
-    },
+      "deskripsi": [
+        "Membuat desain grafis untuk kebutuhan percetakan dan promosi.",
+        "Mengoperasikan mesin cetak dan memastikan hasil produksi sesuai dengan standar cetak.",
+        "Mendukung proses produksi mulai dari desain hingga hasil akhir cetakan.",
+        "Dukungan teknis komputer dan jaringan."
+      ]
+    }
   ],
-  
   "sertifikat": [
     {
       "judul": "Database Foundation",
@@ -55,12 +59,12 @@
     {
       "judul": "JavaScript Essentials",
       "tahun": "2024"
-    }
-     {
-      "judul": "MikroTik certified Network Associate (MTCNA) ",
+    },
+    {
+      "judul": "MikroTik Certified Network Associate (MTCNA)",
       "tahun": "2024"
-    }
-     {
+    },
+    {
       "judul": "IT Specialist – Software Development (Certiport/Pearson Vue)",
       "tahun": "2024"
     }
@@ -79,6 +83,6 @@
   ],
   "kontak": {
     "email": "irvanyudi41@gmail.com",
-    "Telpon": "081382578016",
+    "Telpon": "081382578016"
   }
 }

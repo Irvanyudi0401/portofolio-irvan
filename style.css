@@ -126,3 +126,49 @@ footer a:hover {
     gap: 10px;
   }
 }
+
+/* Tombol toggle */
+#theme-toggle {
+  margin-left: 20px;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 6px;
+  background: #fff;
+  color: #004c99;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s, color 0.3s;
+}
+#theme-toggle:hover {
+  background: #ddd;
+}
+
+/* Mode gelap */
+body.dark {
+  background: #1c1c1c;
+  color: #f0f0f0;
+}
+body.dark header {
+  background: linear-gradient(135deg, #222, #000);
+}
+body.dark nav {
+  background: #111;
+}
+body.dark nav a {
+  color: #ddd;
+}
+body.dark nav a:hover {
+  background: rgba(255,255,255,0.2);
+}
+body.dark .grid div {
+  background: #2a2a2a;
+  color: #f0f0f0;
+}
+body.dark footer {
+  background: #000;
+  color: #aaa;
+}
+body.dark footer a {
+  color: #66ccff;
+}
+

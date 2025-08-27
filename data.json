@@ -1,0 +1,59 @@
+{
+  "profil": {
+    "nama": "Irvan Yudistiansyah",
+    "deskripsi": "Lulusan S1 Teknik Informatika dengan pengalaman di IT Support, pengembangan website, dan manajemen database. Memiliki sertifikat Database Foundation dan JavaScript Essentials."
+  },
+  "pendidikan": [
+    {
+      "sekolah": "Universitas Muhammadiyah Sukabumi",
+      "jurusan": "Teknik Informatika",
+      "tahun": "2021 - 2025"
+    },
+    {
+      "sekolah": "SMKN 1 Cibadak",
+      "jurusan": "Multimedia",
+      "tahun": "2018 - 2021"
+    }
+  ],
+  "pengalaman": [
+    {
+      "posisi": "IT Support (PKL)",
+      "instansi": "BPS Kab. Sukabumi",
+      "tahun": "2023",
+      "deskripsi": "Membantu instalasi komputer, setting jaringan, dan pembuatan website agenda rapat."
+    },
+    {
+      "posisi": "Freelance Web Developer",
+      "instansi": "Primera Digital Printing",
+      "tahun": "2024",
+      "deskripsi": "Membuat website invoice dan maintenance sistem percetakan."
+    }
+  ],
+  "sertifikat": [
+    {
+      "judul": "Database Foundation",
+      "tahun": "2023"
+    },
+    {
+      "judul": "JavaScript Essentials",
+      "tahun": "2024"
+    }
+  ],
+  "proyek": [
+    {
+      "judul": "Website Agenda Rapat",
+      "klien": "BPS Kab. Sukabumi",
+      "gambar": "assets/proyek1.png"
+    },
+    {
+      "judul": "Website Invoice",
+      "klien": "Primera Digital Printing",
+      "gambar": "assets/proyek2.png"
+    }
+  ],
+  "kontak": {
+    "email": "emailanda@gmail.com",
+    "linkedin": "https://linkedin.com/in/username",
+    "github": "https://github.com/username"
+  }
+}

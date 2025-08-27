@@ -4,40 +4,68 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Portofolio Irvan Yudistiansyah</title>
+  <meta name="description" content="Portofolio Irvan Yudistiansyah berisi profil, pengalaman kerja, pendidikan, sertifikat, dan proyek.">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <!-- Navigasi -->
+  <nav>
+    <ul>
+      <li><a href="#pendidikan">Pendidikan</a></li>
+      <li><a href="#pengalaman">Pengalaman</a></li>
+      <li><a href="#sertifikat">Sertifikat</a></li>
+      <li><a href="#proyek">Proyek</a></li>
+      <li><a href="#kontak">Kontak</a></li>
+    </ul>
+  </nav>
+
+  <!-- Header / Profil -->
   <header>
     <h1 id="nama"></h1>
     <p id="deskripsi"></p>
   </header>
 
-  <section>
-    <h2>Pendidikan</h2>
-    <ul id="pendidikan"></ul>
-  </section>
+  <main>
+    <!-- Pendidikan -->
+    <section id="pendidikan-section">
+      <h2>Pendidikan</h2>
+      <ul id="pendidikan"></ul>
+    </section>
 
-  <section>
-    <h2>Pengalaman</h2>
-    <ul id="pengalaman"></ul>
-  </section>
+    <!-- Pengalaman -->
+    <section id="pengalaman-section">
+      <h2>Pengalaman</h2>
+      <ul id="pengalaman"></ul>
+    </section>
 
-  <section>
-    <h2>Sertifikat</h2>
-    <ul id="sertifikat"></ul>
-  </section>
+    <!-- Sertifikat -->
+    <section id="sertifikat-section">
+      <h2>Sertifikat</h2>
+      <ul id="sertifikat"></ul>
+    </section>
 
-  <section>
-    <h2>Proyek</h2>
-    <div id="proyek" class="grid"></div>
-  </section>
+    <!-- Proyek -->
+    <section id="proyek-section">
+      <h2>Proyek</h2>
+      <div id="proyek" class="grid"></div>
+    </section>
+  </main>
 
-  <footer>
+  <!-- Footer -->
+  <footer id="kontak">
     <h2>Kontak</h2>
-    <p>Email: <span id="email"></span></p>
-    <p><a id="linkedin" target="_blank">LinkedIn</a> | <a id="github" target="_blank">GitHub</a></p>
+    <p>Email: <a id="email" href="mailto:"></a></p>
+    <p>
+      <a id="linkedin" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
+      <a id="github" target="_blank" rel="noopener noreferrer">GitHub</a>
+    </p>
+    <p>&copy; <span id="tahun"></span> Irvan Yudistiansyah</p>
   </footer>
 
+  <script>
+    // Tambahan otomatis isi tahun copyright
+    document.getElementById("tahun").innerText = new Date().getFullYear();
+  </script>
   <script src="script.js"></script>
 </body>
 </html>

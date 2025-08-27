@@ -8,12 +8,13 @@
       "sekolah": "Universitas Muhammadiyah Sukabumi",
       "jurusan": "Teknik Informatika",
       "tahun": "2021 - 2025",
-      "IPK": "3.73 /4.00"
+      "IPK": "3.73",
+      "Skala": 4.00,
     },
     {
       "sekolah": "SMKN 1 Cibadak",
       "jurusan": "Multimedia",
-      "tahun": "2019 - 2021"
+      "tahun": "2019 - 2021",
     }
   ],
   "pengalaman": [
@@ -25,7 +26,7 @@
         "Membantu administrasi dan dokumentasi internal kantor.",
         "Pengembangan website agenda rapat internal.",
         "Instalasi dan konfigurasi komputer serta jaringan lokal.",
-        "Pemeliharaan sistem website dan troubleshooting perangkat."
+        "Pemeliharaan sistem website dan troubleshooting perangkat.",
       ]
     },
     {
@@ -36,7 +37,7 @@
         "Membuat desain grafis untuk kebutuhan percetakan dan promosi.",
         "Mengoperasikan mesin cetak dan memastikan hasil produksi sesuai dengan standar cetak.",
         "Membuat dan mengembangkan website invoice untuk kebutuhan internal.",
-        "Memberikan dukungan teknis komputer dan jaringan."
+        "Memberikan dukungan teknis komputer dan jaringan.",
       ]
     },
     {
@@ -47,7 +48,7 @@
         "Membuat desain grafis untuk kebutuhan percetakan dan promosi.",
         "Mengoperasikan mesin cetak dan memastikan hasil produksi sesuai dengan standar cetak.",
         "Mendukung proses produksi mulai dari desain hingga hasil akhir cetakan.",
-        "Dukungan teknis komputer dan jaringan."
+        "Dukungan teknis komputer dan jaringan.",
       ]
     }
   ],
@@ -73,16 +74,16 @@
     {
       "judul": "Website Agenda Rapat",
       "klien": "BPS Kab. Sukabumi",
-      "gambar": "assets/proyek1.png"
+      "gambar": "assets/proyek1.png",
     },
     {
       "judul": "Website Invoice",
       "klien": "Primera Digital Printing",
-      "gambar": "assets/proyek2.png"
+      "gambar": "assets/proyek2.png",
     }
   ],
   "kontak": {
     "email": "irvanyudi41@gmail.com",
-    "Telpon": "081382578016"
+    "telpon": "081382578016",
   }
 }
